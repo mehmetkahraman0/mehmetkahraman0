@@ -1,4 +1,4 @@
-[![MasterHead](https://inzint.com/wp-content/uploads/2023/02/Features-of-Mern-stack-development-services-You-Should-Know-1024x529.png)]
+![MasterHead](https://inzint.com/wp-content/uploads/2023/02/Features-of-Mern-stack-development-services-You-Should-Know-1024x529.png)
 <h1 align="center">Hi 👋, I'm MEHMET</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
