@@ -7,7 +7,7 @@ runs:
   main: dist/index.js
 
 inputs:
-  github_user_name:
+  github_user_name: "mehmetkahraman0"
     description: "mehmetkahraman0"
     required: true
   github_token:
