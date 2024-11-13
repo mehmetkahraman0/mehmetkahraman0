@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Node.js, SQL**
+ 🌱 I’m currently learning **C#, MySQL**
 
  </div>
  
